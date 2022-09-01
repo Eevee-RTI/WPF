@@ -1,0 +1,5 @@
+C:\Users\vmadmin\Downloads\WPF\WPF\Hello World\obj\Debug\net6.0-windows\Hello World.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Downloads\WPF\WPF\Hello World\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vmadmin\Downloads\WPF\WPF\Hello World\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vmadmin\Downloads\WPF\WPF\Hello World\obj\Debug\net6.0-windows\Hello World_MarkupCompile.cache
+C:\Users\vmadmin\Downloads\WPF\WPF\Hello World\obj\Debug\net6.0-windows\Hello World_MarkupCompile.lref
